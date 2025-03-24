@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VideoVistaEdit/static/css/main.615f537c.css",
+    "main.js": "/VideoVistaEdit/static/js/main.1f1719ae.js",
+    "index.html": "/VideoVistaEdit/index.html",
+    "main.615f537c.css.map": "/VideoVistaEdit/static/css/main.615f537c.css.map",
+    "main.1f1719ae.js.map": "/VideoVistaEdit/static/js/main.1f1719ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.615f537c.css",
+    "static/js/main.1f1719ae.js"
+  ]
+}
